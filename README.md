@@ -22,6 +22,8 @@ vue2+mysql+node.js
 # 启动项目
 ```npm i```
 
+aaa
+
 ```npm run serve```
 
 # 项目预览图
